@@ -12,5 +12,5 @@ st.header(tab)
 if tab == tabs[0]:
     st.write("Tab 1 content")
 
-if tab == tab[1]:
+if tab == tabs[1]:
     st.write("Tab 2 content")
